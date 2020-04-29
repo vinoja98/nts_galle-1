@@ -17,7 +17,7 @@
 
 <div class="wrapper">
     <div class="sidebar">
-        <h2>Sidebar</h2>
+        <h2>Moodle</h2>
         <ul>
             <li><a href="#"><i class="fas fa-home"></i>Dashboard</a></li>
             <li><a href="#"><i class="fas fa-user"></i>Profile</a></li>
