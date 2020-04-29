@@ -48,7 +48,7 @@
             </div>
             <div class="Mental Health">
                 <br><br>
-                <h3>Intoduction to Mental Health Nursing</h3>
+                <h3>Introduction to Mental Health Nursing</h3>
                 <a href="#"><button class="apply">Go to this module</button></a>
                 <p>This course introduces students to the history, processes and methods of community health nursing. Students will also discuss the concept of health, personal and environmental health. They will develop competencies in promoting health in the community and managing home accidents. The students will be expected to select a community or group and examine their environmental health practices.</p>
                
@@ -60,9 +60,9 @@
                 <p>The course introduces students to the various types of trauma and their management. It will also equip the students with knowledge and skills that can be utilized to provide safety / emergency care to individuals in the community.  The course would include practical sessions in the laboratory and students would be expected to do return demonstration on competencies demonstrated.</p>
                
             </div>
-            <div class="health Assement">
+            <div class="health Assessment">
                 <br><br>
-                <h3>Principles and Practice of Health Assement</h3>
+                <h3>Principles and Practice of Health Assessment</h3>
                 <a href="#"><button class="apply">Go to this module</button></a>
                 <p>The course is designed to equip students with knowledge and skills in carrying out comprehensive health assessment. Students will be taken through the physical assessment of the human body in relation to the various body systems. They will gain competency in determining normal and abnormal functioning of organs and systems. The course will consist of classroom teaching and skills demonstration.</p>
                 
